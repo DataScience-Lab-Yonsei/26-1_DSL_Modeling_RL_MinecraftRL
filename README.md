@@ -42,7 +42,7 @@
 
 ### Hyunjin/survive_and_hunt_environment.py
 
-`SurviveAndHuntEnvironment` — Hyunjin이 개발한 생존+전투 핵심 환경. Hyunjin 폴더의 모든 학습 스크립트가 이 파일에 의존한다.
+`SurviveAndHuntEnvironment` — 생존+전투 핵심 환경. Hyunjin 폴더가 이 스크립트에 의존
 
 주요 구성:
 - `StageConfig`: 스폰할 mob 종류/수, 난이도 설정
