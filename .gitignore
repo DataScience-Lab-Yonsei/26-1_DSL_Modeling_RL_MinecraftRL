@@ -1,0 +1,20 @@
+# wandb
+wandb/
+
+# logs
+logs/
+
+# zip files
+*.zip
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# demo / eval data
+*.npz
+
+# model checkpoints
+checkpoints/

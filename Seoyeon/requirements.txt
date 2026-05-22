@@ -1,0 +1,9 @@
+craftground==2.6.15
+flask
+stable_baselines3==2.7.1
+wandb==0.25.0
+opencv-python==4.13.0.92
+gymnasium==1.2.3
+torch==2.10.0
+numpy==2.4.2
+tensorboard==2.20.0
