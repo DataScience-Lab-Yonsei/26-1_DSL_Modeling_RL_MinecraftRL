@@ -36,19 +36,6 @@
   - `mining_icm`: ICM (Intrinsic Curiosity Module, Pathak et al. 2017) 기반 자동 탐험.
   - `mining_compare`: Baseline (셀 추적) / ICM / HRL 세 방식을 동일 wandb project에서 비교.
 
----
-
-## 공유 환경
-
-### Hyunjin/survive_and_hunt_environment.py
-
-`SurviveAndHuntEnvironment` — 생존+전투 핵심 환경. Hyunjin 폴더가 이 스크립트에 의존
-
-주요 구성:
-- `StageConfig`: 스폰할 mob 종류/수, 난이도 설정
-- `RewardConfig`: 생존/전투/이동 관련 보상 파라미터 전체
-- 관측: 이미지(선택) + raycast vector
-- Lidar 기반 적 탐지 및 거리/방향 추적
 
 ---
 
